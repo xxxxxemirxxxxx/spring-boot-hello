@@ -11,7 +11,7 @@ public class MessageController {
 
     @GetMapping("/hi")
     public ResponseEntity<String> sayHi() {
-        return ResponseEntity.ok("Hello, from the Spring Boot rest controller");
+        return ResponseEntity.ok("Hello Helsinki, hope you are having a great day!");
     }
 
 }

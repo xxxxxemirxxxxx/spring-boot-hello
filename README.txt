@@ -1,0 +1,1 @@
+Link to the deployed rest service on ECS AWS: http://3.75.133.231:8080/api/v1/hi
